@@ -1,0 +1,7 @@
+*.csv
+*.zip
+.env
+.vscode
+.pycode
+.pytest
+.ipynb_checkpoints
